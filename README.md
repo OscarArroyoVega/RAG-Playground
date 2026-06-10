@@ -1,3 +1,5 @@
+> ⏸️ This repo is not actively maintained at the moment. Kept for reference.
+
 # LangChain RAG Playground 🛝
 
 [Demo](https://github.com/Anteemony/RAG-Playground/assets/103512255/0d944420-e3e8-43cb-aad3-0a459d8d0318)
